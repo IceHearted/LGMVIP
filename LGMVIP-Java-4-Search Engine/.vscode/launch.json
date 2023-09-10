@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SimpleSearchEngine",
+            "request": "launch",
+            "mainClass": "SimpleSearchEngine",
+            "projectName": "LGMVIP-Java-4-Search Engine_2d550b41"
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
