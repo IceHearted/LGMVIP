@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TextEditor",
+            "request": "launch",
+            "mainClass": "TextEditor",
+            "projectName": "LGMVIP-Java-5-Test Editor_5c784c83"
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
